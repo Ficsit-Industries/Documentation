@@ -47,7 +47,7 @@ image:BeginnersGuide/simpleMod/CreateDocRecipeDescriptor.gif[image]
 
 Next, we'll configure our new recipe to control what it requires, what it produces, and what machines can use it.
 
-Double click to open your new recipe to open it, and you should see the default settings of the classes' attributes.
+Double click to open your new recipe, and you should see the default settings of the classes' attributes.
 If not, click on the "Class Defaults" button in the toolbar and they should appear in the Details browser.
 
 Let's go through each attribute and set up our recipe's properties.
